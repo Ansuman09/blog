@@ -1,0 +1,33 @@
+body{
+  text-align: center;
+  line-height: 1.5rem;
+  background-color: #EFFFFD;
+}
+
+.img-holder{
+  width: 80%;
+}
+
+.text-holder{
+  width: 50%;
+  margin: 0 auto;
+}
+
+.spaced-containers{
+  margin-bottom: 100px;
+  margin-top: 50px;
+}
+
+.text-holder{
+  margin: 0 auto;
+  width: 70%;
+  text-align: justify;
+}
+
+h1,h2,h3{
+  text-align: center;
+}
+
+img{
+padding: 10px;
+}
